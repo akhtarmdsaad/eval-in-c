@@ -115,7 +115,7 @@ float bodmas_calculator(float nos[], char ops[],int size){
 			delFloatIndex(nos,i,size);
 			delCharIndex(ops,i,size);
 			nos[i] = result;
-			printf("\n--------\n");
+// 			printf("\n--------\n");
 			printFloat(nos,size);
 			printChar(ops,size);
 			printExpression(nos,ops,size);
@@ -134,7 +134,7 @@ float bodmas_calculator(float nos[], char ops[],int size){
 			delFloatIndex(nos,i,size);
 			delCharIndex(ops,i,size);
 			nos[i] = result;
-			printf("\n--------\n");
+// 			printf("\n--------\n");
 			printFloat(nos,size);
 			printChar(ops,size);
 			printExpression(nos,ops,size);
@@ -152,7 +152,7 @@ float bodmas_calculator(float nos[], char ops[],int size){
 			delFloatIndex(nos,i,size);
 			delCharIndex(ops,i,size);
 			nos[i] = result;
-			printf("\n--------\n");
+// 			printf("\n--------\n");
 			printFloat(nos,size);
 			printChar(ops,size);
 			printExpression(nos,ops,size);
@@ -170,7 +170,7 @@ float bodmas_calculator(float nos[], char ops[],int size){
 			delFloatIndex(nos,i,size);
 			delCharIndex(ops,i,size);
 			nos[i] = result;
-			printf("\n--------\n");
+// 			printf("\n--------\n");
 			printFloat(nos,size);
 			printChar(ops,size);
 			printExpression(nos,ops,size);
