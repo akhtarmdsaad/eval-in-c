@@ -1,5 +1,6 @@
 # eval-in-c
 This is a simple BODMAS evaluator in c (same as eval in python)
+Only / * - + are allowed.
 
 ## Some Screenshots of program eval_with_bodmas.c
 ![image](https://user-images.githubusercontent.com/57033728/209052861-772f9cc6-09f4-4e21-877e-85edede89772.png)
